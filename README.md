@@ -6,4 +6,4 @@ My main research interests span topics in integrable systems and applications in
 
 ![thraraujo's Stats](https://github-readme-stats.vercel.app/api?username=thraraujo&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-![thraraujo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thraraujo&theme=nord&show_icons=true&hide_border=true&&layout=donut&exclude_repo=thraraujo.github.io,website&hide=html,tex,jupyter%20notebook)
+![thraraujo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thraraujo&theme=nord&show_icons=true&hide_border=true&&layout=donut&exclude_repo=thraraujo.github.io,website&hide=html,tex,vim%20script,jupyter%20notebook)
