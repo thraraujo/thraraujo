@@ -1,6 +1,6 @@
 #### Hi all,
 
-I am a theoretical physicist currently working at the Institute for Theoretical Physics, UNESP, as a postdoc. 
+I am a theoretical physicist currently working at the Institute for Theoretical Physics, UNESP, as a postdoc researcher. 
 
 My main research interests span topics in integrable systems and applications in statistical physics and string theory.
 
